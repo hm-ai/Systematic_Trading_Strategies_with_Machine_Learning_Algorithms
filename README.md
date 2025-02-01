@@ -47,7 +47,7 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 --- 
 
 
-# Final Exam
+# **Final Exam**
 
 | **Date** | Exam | Solution | Final Results |
 |----------|------|----------|---------------|
@@ -69,5 +69,5 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 ---
 
 
-# Contact
+# **Contact**
 Should you have any inquiries about the practical implementations, don't hesitate to email h.madmoun@ic.ac.uk
