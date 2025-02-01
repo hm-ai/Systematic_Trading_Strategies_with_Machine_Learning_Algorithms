@@ -6,13 +6,14 @@ Welcome to you all !
 
 This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms" at Imperial College Business College.
 
-# Getting Started
+# **Getting Started**
+
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 
 * If you prefer to run the scripts on your machine, please follow the instructions in the following link: [Installation instruction](https://colab.research.google.com/drive/1GtAF3kuPGDhxRYacLVUMm5S8f1uBA_oM?usp=sharing)
 
 
-# Syllabus
+# **Syllabus**
 
 | **Date**  | **Session Type**  | **Topic**                                                          | **Practical Implementation**                                                                | **Slides** | **Colabs** | **Solutions** |
 |-----------|-------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------|------------|---------------|
@@ -25,18 +26,6 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | `Week 7`  | Lecture           | **Neural Networks for Time Series Forecasting**                    | Implement GRUs, LSTMs, N-BEATS, and Transformers for forecasting.                           |            |            |               |
 | `Week 8`  | Programming       | **Volatility Forecasting with Temporal Fusion Transformers (TFT)** | Implement TFT for predicting financial volatility.                                          |            |            |               |
 | `Week 9`  | Review            | **Review & Exam Preparation**                                      | Mock exam and revision exercises.                                                           |            |            |               |
-
----
-
-
-### **Optional Sessions**
-
-| **Session**    | **Topic**                                                   |
-|----------------|-------------------------------------------------------------|
-| **Session 1**  | Python Refresher - Introduction to data structures          |
-| **Session 2**  | Mathematics for Machine Learning                            |
-| **Session 3**  | Introduction to Graph Neural Networks                       |
-| **Session 4**  | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
 
 ---
 
@@ -57,8 +46,8 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 --- 
 
-# Final Exam
 
+# Final Exam
 
 | **Date** | Exam | Solution | Final Results |
 |----------|------|----------|---------------|
@@ -66,6 +55,18 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 
 --- 
+
+
+# **Optional Sessions**
+
+| **Session**    | **Topic**                                                   |
+|----------------|-------------------------------------------------------------|
+| **Session 1**  | Python Refresher - Introduction to data structures          |
+| **Session 2**  | Mathematics for Machine Learning                            |
+| **Session 3**  | Introduction to Graph Neural Networks                       |
+| **Session 4**  | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
+
+---
 
 
 # Contact
