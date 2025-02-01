@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/logo.png" alt="Logo" width="20%"/>
+    <img src="./images/logo.png" alt="Logo" width="40%"/>
 </div>
 
 Welcome to you all !
@@ -30,12 +30,13 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 
 ### **Optional Sessions**
-| **Session**   | **Topic**                                                   |
-|---------------|-------------------------------------------------------------|
-| **Session 1** | Python Refresher - Introduction to data structures          |
-| **Session 2** | Mathematics for Machine Learning                            |
-| **Session 3** | Introduction to Graph Neural Networks                       |
-| **Session 4** | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
+
+| **Session**    | **Topic**                                                   |
+|----------------|-------------------------------------------------------------|
+| **Session 1**  | Python Refresher - Introduction to data structures          |
+| **Session 2**  | Mathematics for Machine Learning                            |
+| **Session 3**  | Introduction to Graph Neural Networks                       |
+| **Session 4**  | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
 
 ---
 
