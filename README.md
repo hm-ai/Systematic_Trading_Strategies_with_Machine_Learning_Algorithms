@@ -15,34 +15,33 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 # **Syllabus**
 
-| **Date**  | **Session Type**  | **Topic**                                                      | **Practical Implementation**                                                                | **Slides** | **Colabs** | **Solutions** |
-|-----------|-------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------|------------|---------------|
-| `Week 1`  | Lecture           | Database Management                                            | Introduction to SQL, database design, querying, schema design, and optimization.            |            |            |               |
-| `Week 2`  | Programming       | Database Management Hands-on                                   | Design and operate a database to store and handle financial data.                           |            |            |               |
-| `Week 3`  | Lecture           | Supervised Learning & Financial Time Series Labeling           | Overview of supervised learning algorithms and financial data labeling for trend detection. |            |            |               |
-| `Week 4`  | Lecture           | Unsupervised Learning & Feature Importance Analysis            | Cluster-based feature importance to minimize substitution effect.                           |            |            |               |
-| `Week 5`  | Programming       | Enhancing Strategy Performance in Crypto Markets               | Filter non-profitable trades using tree-based models with cluster-level feature importance. |            |            |               |
-| `Week 6`  | Lecture           | Latent Variable Models & Financial Asset Regime Detection      | Implement Hidden Markov Models for predicting market regimes.                               |            |            |               |
-| `Week 7`  | Lecture           | Neural Networks for Time Series Forecasting                    | Implement GRUs, LSTMs, N-BEATS, and Transformers for forecasting.                           |            |            |               |
-| `Week 8`  | Programming       | Volatility Forecasting with Temporal Fusion Transformers (TFT) | Implement TFT for predicting financial volatility.                                          |            |            |               |
-| `Week 9`  | Review            | Review & Exam Preparation                                      | Mock exam and revision exercises.                                                           |            |            |               |
+
+| Lecture | Theory | Programming Session |
+|---------|--------|---------------------|
+| **Lecture 1:**<br>*Introduction to Systematic Strategies with Machine Learning* | - Introducing systematic strategies using machine learning, covering labeling methods, evaluation metrics, feature importance analysis, and hyperparameter optimization tailored for sequential data.<br>- Introducing the Meta-labeling approach, which strategically balances recall and precision by identifying conditions under which a primary model yields optimal trading performance. | - Practical session on financial data labeling for trend detection. |
+| **Lecture 2:**<br>*Unsupervised Learning and Clustering Techniques* | - Introducing clustering algorithms and dimensionality reduction techniques, highlighting their role in addressing substitution effects in feature importance analysis. | - Improving machine learning model performance by reducing substitution effects among correlated features using cluster-level feature importance analysis. |
+| **Lecture 3:**<br>*Database Management for Financial Data* |  | - This programming-focused lecture covers database management fundamentals.<br>- The data will be used for subsequent parts of the course. |
+| **Lecture 4:**<br>*Supervised Learning Algorithms* | - Overview of key supervised learning algorithms with emphasis on ensemble models (Bagging and Boosting) and feature importance analysis.<br>- Introducing Gated Residual Networks (GRN) and Variable Selection Networks (VSN). | - Forecasting time series with gradient boosting. |
+| **Lecture 5:**<br>*Enhancing Strategy Performance in Crypto Markets* |  | - Applying concepts from previous sessions to filter out non-profitable trades from a primary model proposed on crypto data, using a tree-based secondary model with an emphasis on cluster-level feature importance analysis. |
+| **Lecture 6:**<br>*Latent Variable Models in Financial Asset Regime Detection* | - Introducing Hidden Markov Models (HMMs) for predicting financial market regimes. | - Implementation of the HMM in a simple case of discrete observations. |
+| **Lecture 7:**<br>*Neural Networks for Interpretable Time Series Forecasting* | - Exploration of neural network models for interpretable time series forecasting, including GRUs, LSTMs, N-Beats and Transformers. | - Coding a Transformer from scratch. |
+| **Lecture 8:**<br>*Volatility Forecasting with Temporal Fusion Transformers* |  | - In-depth exploration of sequential neural network architectures for predicting volatility, focusing on the replication of the Temporal Fusion Transformer study, and evaluating its performance against the models discussed in earlier sessions. |
+| **Lecture 9:**<br>*Review* | - Mock exam and revision elements to prepare for the final exam. |  |
 
 ---
-
 
 # **MCQs**
 
 | **Date** | **Topic**                                                      | **MCQ** | **Solution** | 
 |----------|----------------------------------------------------------------|---------|--------------| 
-|          | Database Management                                            |         |              |          
-|          | Supervised Learning & Financial Time Series Labeling           |         |              | 
-|          | Unsupervised Learning & Feature Importance Analysis            |         |              | 
-|          | Enhancing Strategy Performance in Crypto Markets               |         |              | 
-|          | Latent Variable Models & Financial Asset Regime Detection      |         |              | 
-|          | Neural Networks for Time Series Forecasting                    |         |              | 
-|          | Volatility Forecasting with Temporal Fusion Transformers (TFT) |         |              | 
-|          | Review & Exam Preparation (Mock Exam)                          |         |              |
-
+| 04-10-2025         | Lecture 1: *Introduction to Systematic Strategies with Machine Learning*  |          |              | 
+|          | Lecture 2: *Unsupervised Learning and Clustering Techniques*    |         |              | 
+|          | Lecture 3: *Database Management for Financial Data*             |         |              | 
+|          | Lecture 4: *Supervised Learning Algorithms*                    |         |              | 
+|          | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*  |         |              | 
+|          | Lecture 6: *Latent Variable Models in Financial Asset Regime Detection* |         |              | 
+|          | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting* |         |              | 
+|          | Lecture 8: *Volatility Forecasting with Temporal Fusion Transformers* |         |              | 
 
 --- 
 
@@ -61,10 +60,9 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 | **Session**    | **Topic**                                                   |
 |----------------|-------------------------------------------------------------|
-| **Session 1**  | Python Refresher - Introduction to data structures          |
-| **Session 2**  | Mathematics for Machine Learning                            |
-| **Session 3**  | Introduction to Graph Neural Networks                       |
-| **Session 4**  | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
+| **Session 1**  | Introduction to Deep Generative Models                           |
+| **Session 2**  | Introduction to Graph Neural Networks                        |
+| **Session 3**  | Generative AI: Prompt Engineering - Fine-Tuning LLMs - RLHF |
 
 ---
 
