@@ -33,16 +33,16 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 # **MCQs**
 
-| **Date**   | **Topic**                                                                | **MCQ**                                                                               | **Solution**                                        | 
-|------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------| 
-| 04-10-2025 | Lecture 1: *Introduction to Systematic Strategies with Machine Learning* | [Quiz 1 link](https://forms.gle/RDyctQvfY5unEbKH8) <br> [Quiz 1 pdf](Quiz/Quiz_1.pdf) | [Solution 1 pdf](Quiz_Solution/Solution_Quiz_1.pdf) | 
-|            | Lecture 2: *Introduction to Unsupervised Learning Techniques*            |                                                                                       |                                                     | 
-|            | Lecture 3: *Database Management for Financial Data*                      |                                                                                       |                                                     | 
-|            | Lecture 4: *Supervised Learning Algorithms*                              |                                                                                       |                                                     | 
-|            | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*            |                                                                                       |                                                     | 
-|            | Lecture 6: *Latent Variable Models in Financial Asset Regime Detection*  |                                                                                       |                                                     | 
-|            | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   |                                                                                       |                                                     | 
-|            | Lecture 8: *Volatility Forecasting with Temporal Fusion Transformers*    |                                                                                       |                                                     | 
+| **Date**   | **Topic**                                                                | **MCQ**                                                                               | **Solution**                                       | 
+|------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------| 
+| 04-10-2025 | Lecture 1: *Introduction to Systematic Strategies with Machine Learning* | [Quiz 1 link](https://forms.gle/RDyctQvfY5unEbKH8) <br> [Quiz 1 pdf](Quiz/Quiz_1.pdf) | [Solution 1 pdf](Quiz_Soluton/Solution_Quiz_1.pdf) | 
+|            | Lecture 2: *Introduction to Unsupervised Learning Techniques*            | [Quiz 2 link](https://forms.gle/QHC3meaZr6bPYqej9) <br> [Quiz 2 pdf](Quiz/Quiz_2.pdf) |                                                    | 
+|            | Lecture 3: *Database Management for Financial Data*                      |                                                                                       |                                                    | 
+|            | Lecture 4: *Supervised Learning Algorithms*                              |                                                                                       |                                                    | 
+|            | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*            |                                                                                       |                                                    | 
+|            | Lecture 6: *Latent Variable Models in Financial Asset Regime Detection*  |                                                                                       |                                                    | 
+|            | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   |                                                                                       |                                                    | 
+|            | Lecture 8: *Volatility Forecasting with Temporal Fusion Transformers*    |                                                                                       |                                                    | 
 
 --- 
 
