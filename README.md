@@ -29,6 +29,13 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | Week 9     | *Review*                                                                                        | –                                                                                               | –                                                                                                  | –                                                                                                                                                                                    |
 
 
+# **Coursework**
+
+| Colab                                                                                                | Solution | Release Date | Deadline   |
+|------------------------------------------------------------------------------------------------------|----------|--------------|------------|
+| [Coursework](https://colab.research.google.com/drive/1---SysIELmc-zlDn5t3Ebm0H7vFQ41HB?usp=sharing)  | -        | 05-16-2025   | 06-06-2025 |
+
+
 # **MCQs**
 
 | **Date**   | **Topic**                                                                | **MCQ**                                                                             | **Solution**                                       | 
