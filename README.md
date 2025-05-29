@@ -32,6 +32,20 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 06-13-2025 | *Optional Session: LLMs for decision making*                                                    | –                                                                                                | –                                                                                                   | –                                                                                                                                                                                    |
 
 
+# In-Person Office Hours 
+
+
+| Date              | Time          | Location                     | Notes                                                                                                                                                                  |
+|-------------------|---------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thurs 22 May      | 13:00–14:00   | Business School Boardroom    | Level 1, in the offices opposite LT1                                                                                                                                   |
+| Thurs 22 May      | 17:00–18:00   | LT2                          | Same lecture theatre as class.                                                                                                                                         |
+| Thurs 29 May      | 13:00–14:00   | CAGB 475                     | From Level 1 of the Business School, go through the door by the elevators/toilets into the City and Guilds hallway. Room is on the left as you enter the main hallway. |
+| Thurs 29 May      | 17:00–18:00   | LT2                          | Same lecture theatre as class.                                                                                                                                         |
+| Thurs 05 June     | 13:00–14:00   | Business School Boardroom    | Same location as 22 May                                                                                                                                                |
+| Thurs 05 June     | 17:00–18:00   | LT2                          | Same lecture theatre as class.                                                                                                                                         |
+
+
+
 # **Coursework**
 
 | Colab                                                                                                | Solution | Release Date | Deadline   |
@@ -49,7 +63,7 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 05-08-2025 | Lecture 4: *Supervised Learning Algorithms*                              | [Quiz4_link](https://forms.gle/K7SBmjxmxXHiiw1a9) <br> [Quiz4_pdf](Quiz/Quiz_4.pdf) | [Solution4_pdf](Solution_Quiz/Solution_Quiz_4.pdf) | 
 | 05-15-2025 | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*            | -                                                                                   | -                                                  | 
 | 05-22-2025 | Lecture 6: *Introducing Variable Selection Networks*                     | -                                                                                   | -                                                  |
-| 05-29-2025 | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   | [Quiz7_link](https://forms.gle/K7SBmjxmxXHiiw1a9) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | -                                                  | 
+| 05-29-2025 | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   | [Quiz7_link](https://forms.gle/ibgQ7RgwGitQwRts7) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | -                                                  | 
 | 06-05-2025 | Lecture 8: *Volatility Forecasting with Temporal Fusion Transformers*    | -                                                                                   | -                                                  | 
 | 06-12-2025 | Lecture 9: *Review Session*                                              | -                                                                                   | -                                                  | 
 
