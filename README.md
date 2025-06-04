@@ -61,20 +61,20 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 04-24-2025 | Lecture 2: *Introduction to Unsupervised Learning Techniques*            | [Quiz2_link](https://forms.gle/QHC3meaZr6bPYqej9) <br> [Quiz2_pdf](Quiz/Quiz_2.pdf) | [Solution2_pdf](Solution_Quiz/Solution_Quiz_2.pdf) | 
 | 05-01-2025 | Lecture 3: *Latent Variable Models in Financial Asset Regime Detection*  | [Quiz3_link](https://forms.gle/eWUYm7mr1JH3ULSG8) <br> [Quiz3_pdf](Quiz/Quiz_3.pdf) | [Solution3_pdf](Solution_Quiz/Solution_Quiz_3.pdf) |
 | 05-08-2025 | Lecture 4: *Supervised Learning Algorithms*                              | [Quiz4_link](https://forms.gle/K7SBmjxmxXHiiw1a9) <br> [Quiz4_pdf](Quiz/Quiz_4.pdf) | [Solution4_pdf](Solution_Quiz/Solution_Quiz_4.pdf) | 
-| 05-15-2025 | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*            | -                                                                                   | -                                                  | 
-| 05-22-2025 | Lecture 6: *Introducing Variable Selection Networks*                     | -                                                                                   | -                                                  |
-| 05-29-2025 | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   | [Quiz7_link](https://forms.gle/ibgQ7RgwGitQwRts7) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | -                                                  | 
-| 06-05-2025 | Lecture 8: *Volatility Forecasting with Temporal Fusion Transformers*    | -                                                                                   | -                                                  | 
-| 06-12-2025 | Lecture 9: *Review Session*                                              | -                                                                                   | -                                                  | 
+| 05-15-2025 | Lecture 5: *Enhancing Strategy Performance in Crypto Markets*            | –                                                                                   | –                                                  | 
+| 05-22-2025 | Lecture 6: *Introducing Variable Selection Networks*                     | –                                                                                   | –                                                  |
+| 05-29-2025 | Lecture 7: *Neural Networks for Interpretable Time Series Forecasting*   | [Quiz7_link](https://forms.gle/ibgQ7RgwGitQwRts7) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | –                                                  | 
+| 06-05-2025 | Lecture 8: *Review Session*                                              | –                                                                                   | –                                                  | 
+| 06-12-2025 | Lecture 9: *Volatility Forecasting with Temporal Fusion Transformers*    | –                                                                                   | –                                                  | 
 
 --- 
 
 
 # **Final Exam**
 
-| **Date** | Exam | Solution | Final Results |
-|----------|------|----------|---------------|
-|          |      |          |               |
+| **Date**   | Exam | Solution | Final Results |
+|------------|------|----------|---------------|
+| 06-18-2025 |      |          |               |
 
 
 --- 
