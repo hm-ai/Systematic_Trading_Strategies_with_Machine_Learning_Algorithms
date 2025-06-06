@@ -45,7 +45,7 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | Thurs 05 June | 17:00–18:00 | LT2                       | Same lecture theatre as class.                                                                                                                                         |
 | Thurs 12 June | 13:00–14:00 | to be defined             | to be defined                                                                                                                                                          |
 | Thurs 12 June | 17:00–18:00 | to be defined             | to be defined                                                                                                                                                          |
-z
+
 
 
 # **Coursework**
