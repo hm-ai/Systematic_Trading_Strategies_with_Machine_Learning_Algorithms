@@ -55,6 +55,14 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | [Coursework](https://colab.research.google.com/drive/1---SysIELmc-zlDn5t3Ebm0H7vFQ41HB?usp=sharing)  | -        | 05-16-2025   | 06-06-2025 |
 
 
+# **Past Exams**
+
+| Title         | Year | Exam                                       | Solution                                                      |
+|---------------|------|--------------------------------------------|---------------------------------------------------------------|
+| Mock Exam     | 2025 | [Mock Exam 2025](Exams/Mock_Exam_2025.pdf) | [Solution Mock Exam 2025](Exams/Solution_Mock_Exam_2025.pdf)  | 
+| Final Exam    | 2025 | -                                          | -                                                             |
+
+
 # **MCQs**
 
 | **Date**   | **Topic**                                                                | **MCQ**                                                                             | **Solution**                                       | 
