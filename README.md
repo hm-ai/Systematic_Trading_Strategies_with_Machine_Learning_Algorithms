@@ -75,7 +75,7 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 05-22-2025 | **Lecture 6 (Programming Session):** Introducing Variable Selection Networks                                           | –                                                                                   | –                                                  |
 | 05-29-2025 | **Lecture 7 (Part 1):** Neural Networks for Interpretable Time Series Forecasting                                      | –                                                                                   | –                                                  | 
 | 06-05-2025 | **Lecture 7 (Part 2) - Review Session**                                                                                | –                                                                                   | –                                                  | 
-| 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_link](https://forms.gle/Uoh4Vj4Zq8oG4nde8) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | –                                                  | 
+| 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_link](https://forms.gle/Uoh4Vj4Zq8oG4nde8) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | [Solution7_pdf](Solution_Quiz/Solution_Quiz_7.pdf) | 
 
 ---  
 
